@@ -1,0 +1,97 @@
+[[figtree]]
+arch = "aarch64"
+git-tree-sha1 = "9b8acc382285a0a777f4a1a84400ab56be850cca"
+libc = "glibc"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "5a149fa1d07bf5458a4cb5294c81befc737aa3bb8a44bad977a337b968b84dad"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.aarch64-linux-gnu.tar.gz"
+[[figtree]]
+arch = "aarch64"
+git-tree-sha1 = "4610cfd431abe3375b948afbb44005ca3c663137"
+libc = "musl"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "69887e603f60126a9a506c2baf8d88c37b19cd59d1c4a09736971bf3a27ad2cc"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.aarch64-linux-musl.tar.gz"
+[[figtree]]
+arch = "armv7l"
+git-tree-sha1 = "2513d162c6044701392a30715890995fdddb385c"
+libc = "glibc"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "be50a7d0c29cd87b61527a2ee90a328cb019055cd7606d15cde2a0a593550825"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.armv7l-linux-gnueabihf.tar.gz"
+[[figtree]]
+arch = "armv7l"
+git-tree-sha1 = "2a5711a414d49671dedab0f8d98c0f5035966182"
+libc = "musl"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "a5c6926f76224df6d374ca9eaea4af9aafeec299a2fd0d1c0c5043daa842b471"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.armv7l-linux-musleabihf.tar.gz"
+[[figtree]]
+arch = "i686"
+git-tree-sha1 = "40f0f139251c77f1bfbddae58a561f7fb431e36d"
+libc = "glibc"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "a841cd15f3a62d6e66169528d986c90ccefc20de4d4a788ced338d650f53f350"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.i686-linux-gnu.tar.gz"
+[[figtree]]
+arch = "i686"
+git-tree-sha1 = "152f5a13ae05c86696af8ed8a0e255195d790663"
+libc = "musl"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "e53eeff5b3e6a74ab41b7f3a6d8cb63bd55da66bc4a62a778c63ea96c7317a94"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.i686-linux-musl.tar.gz"
+[[figtree]]
+arch = "powerpc64le"
+git-tree-sha1 = "f8b2d11d9b2eaadad7a48b6eef024868277b175a"
+libc = "glibc"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "eecc3f8f3d9d709591a179b707dae0dadb4e5d9e773cd315f1ace7541e177280"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.powerpc64le-linux-gnu.tar.gz"
+[[figtree]]
+arch = "x86_64"
+git-tree-sha1 = "3f573b66529aa2e412726c8f145bbf10923a61ae"
+os = "macos"
+
+    [[figtree.download]]
+    sha256 = "bae093e8d3fd2a99547595ac488e3c6052e4d6dc8133f1f367b5e9622bcf8f9a"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.x86_64-apple-darwin14.tar.gz"
+[[figtree]]
+arch = "x86_64"
+git-tree-sha1 = "603afccbcc0a904b7b1257c0cfac3ddcae1a1bc9"
+libc = "glibc"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "3be2411c0fc592282dd6b8600c7f89fb71f5ddb6208352e2ecb5527af52388a3"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.x86_64-linux-gnu.tar.gz"
+[[figtree]]
+arch = "x86_64"
+git-tree-sha1 = "7bce8c40e784e620d49d69ac2a837ed52f5a2a13"
+libc = "musl"
+os = "linux"
+
+    [[figtree.download]]
+    sha256 = "686d775446fdcaeac9ad1bbcb6d45702c3ccca420f194111e94cee034e5ce807"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.x86_64-linux-musl.tar.gz"
+[[figtree]]
+arch = "x86_64"
+git-tree-sha1 = "3950ad67315b0addcfb01ef6821e7b16ab19fcf8"
+os = "freebsd"
+
+    [[figtree.download]]
+    sha256 = "48b30b89f6b52aa7f8b6deea3983a33e8cad9c8132309f8b64c46c8100ad8553"
+    url = "https://github.com/JuliaBinaryWrappers/figtree_jll.jl/releases/download/figtree-v0.9.3+0/figtree.v0.9.3.x86_64-unknown-freebsd11.1.tar.gz"
